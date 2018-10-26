@@ -1,3 +1,6 @@
+# Oct. 23, 2018
+# Simple Python program that sets every LED on the strip to "OFF." Useful for debugging.
+
 import subprocess
 import os
 
